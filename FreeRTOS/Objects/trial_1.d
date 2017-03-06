@@ -1,0 +1,17 @@
+.\objects\trial_1.o: trial.c
+.\objects\trial_1.o: tm4c123ge6pm.h
+.\objects\trial_1.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdio.h
+.\objects\trial_1.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+.\objects\trial_1.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdbool.h
+.\objects\trial_1.o: FreeRTOS.h
+.\objects\trial_1.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stddef.h
+.\objects\trial_1.o: FreeRTOSConfig.h
+.\objects\trial_1.o: projdefs.h
+.\objects\trial_1.o: portable.h
+.\objects\trial_1.o: deprecated_definitions.h
+.\objects\trial_1.o: portmacro.h
+.\objects\trial_1.o: mpu_wrappers.h
+.\objects\trial_1.o: task.h
+.\objects\trial_1.o: list.h
+.\objects\trial_1.o: queue.h
+.\objects\trial_1.o: semphr.h

@@ -1,0 +1,173 @@
+Dependencies for Project 'trial', Target 'Target 1': (DO NOT MODIFY !)
+F (.\trial.c)(0x57B36D86)(-c --cpu Cortex-M4.fp -D__EVAL -g -O3 --apcs=interwork --split_sections -I \\VBOXSVR\FreeRTOS-I "C:\Users\Vishal Srivastava\Documents\RTE"-I C:\Keil_v5\ARM\PACK\ARM\CMSIS\5.0.0-Beta4\CMSIS\Include-I C:\Keil_v5\ARM\PACK\Keil\TM4C_DFP\1.1.0\Device\Include\TM4C123-D__UVISION_VERSION="520" -D_RTE_ -DTM4C123GH6PM-o .\objects\trial_1.o --omf_browse .\objects\trial_1.crf --depend .\objects\trial_1.d)
+I (tm4c123ge6pm.h)(0x5328B5D6)
+I (C:\Keil_v5\ARM\ARMCC\include\stdio.h)(0x56FF15CE)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x56FF15CE)
+I (C:\Keil_v5\ARM\ARMCC\include\stdbool.h)(0x56FF15CC)
+I (FreeRTOS.h)(0x57A134B4)
+I (C:\Keil_v5\ARM\ARMCC\include\stddef.h)(0x56FF15CE)
+I (FreeRTOSConfig.h)(0x57A14FF0)
+I (projdefs.h)(0x57A134B4)
+I (portable.h)(0x57A134B4)
+I (deprecated_definitions.h)(0x57A134B4)
+I (portmacro.h)(0x57A134B5)
+I (mpu_wrappers.h)(0x57A134B4)
+I (task.h)(0x57A134B5)
+I (list.h)(0x57A134B4)
+I (queue.h)(0x57A134B4)
+I (semphr.h)(0x57A134B4)
+F (\\VBOXSVR\FreeRTOS\tm4c123ge6pm.h)(0x5328B5D6)()
+F (.\croutine.h)(0x57A134B4)()
+F (.\deprecated_definitions.h)(0x57A134B4)()
+F (.\event_groups.h)(0x57A134B4)()
+F (.\FreeRTOS.h)(0x57A134B4)()
+F (.\list.h)(0x57A134B4)()
+F (.\mpu_wrappers.h)(0x57A134B4)()
+F (.\portable.h)(0x57A134B4)()
+F (.\projdefs.h)(0x57A134B4)()
+F (.\queue.h)(0x57A134B4)()
+F (.\semphr.h)(0x57A134B4)()
+F (.\StackMacros.h)(0x57A134B5)()
+F (.\task.h)(0x57A134B5)()
+F (.\timers.h)(0x57A134B5)()
+F (.\FreeRTOSConfig.h)(0x57A14FF0)()
+F (.\portmacro.h)(0x57A134B5)()
+F (.\croutine.c)(0x57A134B4)(-c --cpu Cortex-M4.fp -D__EVAL -g -O3 --apcs=interwork --split_sections-I "C:\Users\Vishal Srivastava\Documents\RTE"-I C:\Keil_v5\ARM\PACK\ARM\CMSIS\5.0.0-Beta4\CMSIS\Include-I C:\Keil_v5\ARM\PACK\Keil\TM4C_DFP\1.1.0\Device\Include\TM4C123-D__UVISION_VERSION="520" -D_RTE_ -DTM4C123GH6PM-o .\objects\croutine.o --omf_browse .\objects\croutine.crf --depend .\objects\croutine.d)
+I (FreeRTOS.h)(0x57A134B4)
+I (C:\Keil_v5\ARM\ARMCC\include\stddef.h)(0x56FF15CE)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x56FF15CE)
+I (FreeRTOSConfig.h)(0x57A14FF0)
+I (projdefs.h)(0x57A134B4)
+I (portable.h)(0x57A134B4)
+I (deprecated_definitions.h)(0x57A134B4)
+I (portmacro.h)(0x57A134B5)
+I (mpu_wrappers.h)(0x57A134B4)
+I (task.h)(0x57A134B5)
+I (list.h)(0x57A134B4)
+I (croutine.h)(0x57A134B4)
+F (.\event_groups.c)(0x57A134B4)(-c --cpu Cortex-M4.fp -D__EVAL -g -O3 --apcs=interwork --split_sections-I "C:\Users\Vishal Srivastava\Documents\RTE"-I C:\Keil_v5\ARM\PACK\ARM\CMSIS\5.0.0-Beta4\CMSIS\Include-I C:\Keil_v5\ARM\PACK\Keil\TM4C_DFP\1.1.0\Device\Include\TM4C123-D__UVISION_VERSION="520" -D_RTE_ -DTM4C123GH6PM-o .\objects\event_groups.o --omf_browse .\objects\event_groups.crf --depend .\objects\event_groups.d)
+I (C:\Keil_v5\ARM\ARMCC\include\stdlib.h)(0x56FF15CE)
+I (FreeRTOS.h)(0x57A134B4)
+I (C:\Keil_v5\ARM\ARMCC\include\stddef.h)(0x56FF15CE)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x56FF15CE)
+I (FreeRTOSConfig.h)(0x57A14FF0)
+I (projdefs.h)(0x57A134B4)
+I (portable.h)(0x57A134B4)
+I (deprecated_definitions.h)(0x57A134B4)
+I (portmacro.h)(0x57A134B5)
+I (mpu_wrappers.h)(0x57A134B4)
+I (task.h)(0x57A134B5)
+I (list.h)(0x57A134B4)
+I (timers.h)(0x57A134B5)
+I (event_groups.h)(0x57A134B4)
+F (.\list.c)(0x57A134B4)(-c --cpu Cortex-M4.fp -D__EVAL -g -O3 --apcs=interwork --split_sections-I "C:\Users\Vishal Srivastava\Documents\RTE"-I C:\Keil_v5\ARM\PACK\ARM\CMSIS\5.0.0-Beta4\CMSIS\Include-I C:\Keil_v5\ARM\PACK\Keil\TM4C_DFP\1.1.0\Device\Include\TM4C123-D__UVISION_VERSION="520" -D_RTE_ -DTM4C123GH6PM-o .\objects\list.o --omf_browse .\objects\list.crf --depend .\objects\list.d)
+I (C:\Keil_v5\ARM\ARMCC\include\stdlib.h)(0x56FF15CE)
+I (FreeRTOS.h)(0x57A134B4)
+I (C:\Keil_v5\ARM\ARMCC\include\stddef.h)(0x56FF15CE)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x56FF15CE)
+I (FreeRTOSConfig.h)(0x57A14FF0)
+I (projdefs.h)(0x57A134B4)
+I (portable.h)(0x57A134B4)
+I (deprecated_definitions.h)(0x57A134B4)
+I (portmacro.h)(0x57A134B5)
+I (mpu_wrappers.h)(0x57A134B4)
+I (list.h)(0x57A134B4)
+F (.\queue.c)(0x57A134B4)(-c --cpu Cortex-M4.fp -D__EVAL -g -O3 --apcs=interwork --split_sections-I "C:\Users\Vishal Srivastava\Documents\RTE"-I C:\Keil_v5\ARM\PACK\ARM\CMSIS\5.0.0-Beta4\CMSIS\Include-I C:\Keil_v5\ARM\PACK\Keil\TM4C_DFP\1.1.0\Device\Include\TM4C123-D__UVISION_VERSION="520" -D_RTE_ -DTM4C123GH6PM-o .\objects\queue.o --omf_browse .\objects\queue.crf --depend .\objects\queue.d)
+I (C:\Keil_v5\ARM\ARMCC\include\stdlib.h)(0x56FF15CE)
+I (C:\Keil_v5\ARM\ARMCC\include\string.h)(0x56FF15CE)
+I (FreeRTOS.h)(0x57A134B4)
+I (C:\Keil_v5\ARM\ARMCC\include\stddef.h)(0x56FF15CE)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x56FF15CE)
+I (FreeRTOSConfig.h)(0x57A14FF0)
+I (projdefs.h)(0x57A134B4)
+I (portable.h)(0x57A134B4)
+I (deprecated_definitions.h)(0x57A134B4)
+I (portmacro.h)(0x57A134B5)
+I (mpu_wrappers.h)(0x57A134B4)
+I (task.h)(0x57A134B5)
+I (list.h)(0x57A134B4)
+I (queue.h)(0x57A134B4)
+F (.\tasks.c)(0x57A134B4)(-c --cpu Cortex-M4.fp -D__EVAL -g -O3 --apcs=interwork --split_sections-I "C:\Users\Vishal Srivastava\Documents\RTE"-I C:\Keil_v5\ARM\PACK\ARM\CMSIS\5.0.0-Beta4\CMSIS\Include-I C:\Keil_v5\ARM\PACK\Keil\TM4C_DFP\1.1.0\Device\Include\TM4C123-D__UVISION_VERSION="520" -D_RTE_ -DTM4C123GH6PM-o .\objects\tasks.o --omf_browse .\objects\tasks.crf --depend .\objects\tasks.d)
+I (C:\Keil_v5\ARM\ARMCC\include\stdlib.h)(0x56FF15CE)
+I (C:\Keil_v5\ARM\ARMCC\include\string.h)(0x56FF15CE)
+I (FreeRTOS.h)(0x57A134B4)
+I (C:\Keil_v5\ARM\ARMCC\include\stddef.h)(0x56FF15CE)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x56FF15CE)
+I (FreeRTOSConfig.h)(0x57A14FF0)
+I (projdefs.h)(0x57A134B4)
+I (portable.h)(0x57A134B4)
+I (deprecated_definitions.h)(0x57A134B4)
+I (portmacro.h)(0x57A134B5)
+I (mpu_wrappers.h)(0x57A134B4)
+I (task.h)(0x57A134B5)
+I (list.h)(0x57A134B4)
+I (timers.h)(0x57A134B5)
+I (StackMacros.h)(0x57A134B5)
+F (.\timers.c)(0x57A134B4)(-c --cpu Cortex-M4.fp -D__EVAL -g -O3 --apcs=interwork --split_sections-I "C:\Users\Vishal Srivastava\Documents\RTE"-I C:\Keil_v5\ARM\PACK\ARM\CMSIS\5.0.0-Beta4\CMSIS\Include-I C:\Keil_v5\ARM\PACK\Keil\TM4C_DFP\1.1.0\Device\Include\TM4C123-D__UVISION_VERSION="520" -D_RTE_ -DTM4C123GH6PM-o .\objects\timers.o --omf_browse .\objects\timers.crf --depend .\objects\timers.d)
+I (C:\Keil_v5\ARM\ARMCC\include\stdlib.h)(0x56FF15CE)
+I (FreeRTOS.h)(0x57A134B4)
+I (C:\Keil_v5\ARM\ARMCC\include\stddef.h)(0x56FF15CE)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x56FF15CE)
+I (FreeRTOSConfig.h)(0x57A14FF0)
+I (projdefs.h)(0x57A134B4)
+I (portable.h)(0x57A134B4)
+I (deprecated_definitions.h)(0x57A134B4)
+I (portmacro.h)(0x57A134B5)
+I (mpu_wrappers.h)(0x57A134B4)
+I (task.h)(0x57A134B5)
+I (list.h)(0x57A134B4)
+I (queue.h)(0x57A134B4)
+I (timers.h)(0x57A134B5)
+F (.\trial.c)(0x57B36D86)(-c --cpu Cortex-M4.fp -D__EVAL -g -O3 --apcs=interwork --split_sections-I "C:\Users\Vishal Srivastava\Documents\RTE"-I C:\Keil_v5\ARM\PACK\ARM\CMSIS\5.0.0-Beta4\CMSIS\Include-I C:\Keil_v5\ARM\PACK\Keil\TM4C_DFP\1.1.0\Device\Include\TM4C123-D__UVISION_VERSION="520" -D_RTE_ -DTM4C123GH6PM-o .\objects\trial_1.o --omf_browse .\objects\trial_1.crf --depend .\objects\trial_1.d)
+I (tm4c123ge6pm.h)(0x5328B5D6)
+I (C:\Keil_v5\ARM\ARMCC\include\stdio.h)(0x56FF15CE)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x56FF15CE)
+I (C:\Keil_v5\ARM\ARMCC\include\stdbool.h)(0x56FF15CC)
+I (FreeRTOS.h)(0x57A134B4)
+I (C:\Keil_v5\ARM\ARMCC\include\stddef.h)(0x56FF15CE)
+I (FreeRTOSConfig.h)(0x57A14FF0)
+I (projdefs.h)(0x57A134B4)
+I (portable.h)(0x57A134B4)
+I (deprecated_definitions.h)(0x57A134B4)
+I (portmacro.h)(0x57A134B5)
+I (mpu_wrappers.h)(0x57A134B4)
+I (task.h)(0x57A134B5)
+I (list.h)(0x57A134B4)
+I (queue.h)(0x57A134B4)
+I (semphr.h)(0x57A134B4)
+F (.\port.c)(0x57A134B5)(-c --cpu Cortex-M4.fp -D__EVAL -g -O3 --apcs=interwork --split_sections-I "C:\Users\Vishal Srivastava\Documents\RTE"-I C:\Keil_v5\ARM\PACK\ARM\CMSIS\5.0.0-Beta4\CMSIS\Include-I C:\Keil_v5\ARM\PACK\Keil\TM4C_DFP\1.1.0\Device\Include\TM4C123-D__UVISION_VERSION="520" -D_RTE_ -DTM4C123GH6PM-o .\objects\port.o --omf_browse .\objects\port.crf --depend .\objects\port.d)
+I (FreeRTOS.h)(0x57A134B4)
+I (C:\Keil_v5\ARM\ARMCC\include\stddef.h)(0x56FF15CE)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x56FF15CE)
+I (FreeRTOSConfig.h)(0x57A14FF0)
+I (projdefs.h)(0x57A134B4)
+I (portable.h)(0x57A134B4)
+I (deprecated_definitions.h)(0x57A134B4)
+I (portmacro.h)(0x57A134B5)
+I (mpu_wrappers.h)(0x57A134B4)
+I (task.h)(0x57A134B5)
+I (list.h)(0x57A134B4)
+F (.\heap_2.c)(0x57A134B5)(-c --cpu Cortex-M4.fp -D__EVAL -g -O3 --apcs=interwork --split_sections-I "C:\Users\Vishal Srivastava\Documents\RTE"-I C:\Keil_v5\ARM\PACK\ARM\CMSIS\5.0.0-Beta4\CMSIS\Include-I C:\Keil_v5\ARM\PACK\Keil\TM4C_DFP\1.1.0\Device\Include\TM4C123-D__UVISION_VERSION="520" -D_RTE_ -DTM4C123GH6PM-o .\objects\heap_2.o --omf_browse .\objects\heap_2.crf --depend .\objects\heap_2.d)
+I (C:\Keil_v5\ARM\ARMCC\include\stdlib.h)(0x56FF15CE)
+I (FreeRTOS.h)(0x57A134B4)
+I (C:\Keil_v5\ARM\ARMCC\include\stddef.h)(0x56FF15CE)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x56FF15CE)
+I (FreeRTOSConfig.h)(0x57A14FF0)
+I (projdefs.h)(0x57A134B4)
+I (portable.h)(0x57A134B4)
+I (deprecated_definitions.h)(0x57A134B4)
+I (portmacro.h)(0x57A134B5)
+I (mpu_wrappers.h)(0x57A134B4)
+I (task.h)(0x57A134B5)
+I (list.h)(0x57A134B4)
+F (RTE\Device\TM4C123GH6PM\startup_TM4C123.s)(0x51B76296)(--cpu Cortex-M4.fp --pd "__EVAL SETA 1" -g --apcs=interwork -I "C:\Users\Vishal Srivastava\Documents\RTE"-I C:\Keil_v5\ARM\PACK\ARM\CMSIS\5.0.0-Beta4\CMSIS\Include-I C:\Keil_v5\ARM\PACK\Keil\TM4C_DFP\1.1.0\Device\Include\TM4C123--pd "__UVISION_VERSION SETA 520" --pd "_RTE_ SETA 1" --pd "TM4C123GH6PM SETA 1"--list .\listings\startup_tm4c123.lst --xref -o .\objects\startup_tm4c123.o --depend .\objects\startup_tm4c123.d)
+F (RTE\Device\TM4C123GH6PM\system_TM4C123.c)(0x550AE46A)(-c --cpu Cortex-M4.fp -D__EVAL -g -O3 --apcs=interwork --split_sections-I "C:\Users\Vishal Srivastava\Documents\RTE"-I C:\Keil_v5\ARM\PACK\ARM\CMSIS\5.0.0-Beta4\CMSIS\Include-I C:\Keil_v5\ARM\PACK\Keil\TM4C_DFP\1.1.0\Device\Include\TM4C123-D__UVISION_VERSION="520" -D_RTE_ -DTM4C123GH6PM-o .\objects\system_tm4c123.o --omf_browse .\objects\system_tm4c123.crf --depend .\objects\system_tm4c123.d)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x56FF15CE)
+I (C:\Keil_v5\ARM\PACK\Keil\TM4C_DFP\1.1.0\Device\Include\TM4C123\TM4C123.h)(0x530F7186)
+I (C:\Keil_v5\ARM\PACK\Keil\TM4C_DFP\1.1.0\Device\Include\TM4C123\TM4C123GH6PM.h)(0x551060BC)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\5.0.0-Beta4\CMSIS\Include\core_cm4.h)(0x5736688E)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\5.0.0-Beta4\CMSIS\Include\core_cminstr.h)(0x57360196)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\5.0.0-Beta4\CMSIS\Include\cmsis_armcc.h)(0x57360196)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\5.0.0-Beta4\CMSIS\Include\core_cmfunc.h)(0x57360196)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\5.0.0-Beta4\CMSIS\Include\core_cmsimd.h)(0x57360196)
+I (C:\Keil_v5\ARM\PACK\Keil\TM4C_DFP\1.1.0\Device\Include\TM4C123\system_TM4C123.h)(0x51B76296)

@@ -1,0 +1,13 @@
+.\objects\heap_5.o: heap_5.c
+.\objects\heap_5.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdlib.h
+.\objects\heap_5.o: FreeRTOS.h
+.\objects\heap_5.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stddef.h
+.\objects\heap_5.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+.\objects\heap_5.o: FreeRTOSConfig.h
+.\objects\heap_5.o: projdefs.h
+.\objects\heap_5.o: portable.h
+.\objects\heap_5.o: deprecated_definitions.h
+.\objects\heap_5.o: portmacro.h
+.\objects\heap_5.o: mpu_wrappers.h
+.\objects\heap_5.o: task.h
+.\objects\heap_5.o: list.h

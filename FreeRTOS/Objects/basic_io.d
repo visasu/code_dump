@@ -1,0 +1,14 @@
+.\objects\basic_io.o: basic_io.c
+.\objects\basic_io.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdio.h
+.\objects\basic_io.o: consoleprint.h
+.\objects\basic_io.o: FreeRTOS.h
+.\objects\basic_io.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stddef.h
+.\objects\basic_io.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+.\objects\basic_io.o: FreeRTOSConfig.h
+.\objects\basic_io.o: projdefs.h
+.\objects\basic_io.o: portable.h
+.\objects\basic_io.o: deprecated_definitions.h
+.\objects\basic_io.o: portmacro.h
+.\objects\basic_io.o: mpu_wrappers.h
+.\objects\basic_io.o: task.h
+.\objects\basic_io.o: list.h
