@@ -1,0 +1,5 @@
+Graph library to do
+1. Add template support
+2. Add STL map support
+3. Add bidirectional support
+4. Add shortest path path return support
